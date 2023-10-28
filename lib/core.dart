@@ -55,4 +55,3 @@ export 'package:slicing_ui_5/shared/widget/form/time_picker/timepicker.dart';
 export 'package:slicing_ui_5/shared/widget/list/list_view.dart';
 export 'package:slicing_ui_5/shared/widget/typography/heading.dart';
 export 'package:slicing_ui_5/state_util.dart';
-export 'core_package.dart';
